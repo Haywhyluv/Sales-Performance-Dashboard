@@ -6,7 +6,6 @@
 
 This Power BI dashboard focuses on analyzing sales performance under high discount bands, offering insights into product profitability, market segmentation, and regional sales trends. **It aims to support strategic decision-making around pricing, product focus, and customer segmentation by visualizing key metrics like revenue, profit, unit sales, and manufacturing costs**.
 
-![](Sales_5.PNG)
 ##**Problem Statement**
 
 Businesses often struggle to understand the true profitability of products when aggressive discounting strategies are applied. This dashboard addresses the following core challenges:
@@ -36,6 +35,7 @@ This dashboard showcases a solid range of Power BI and data analytics skills, in
 ![](Sales_1.PNG)
 ##**Conclusion
 The Analysis effectively breaks down complex sales and cost data into actionable insights through clean visuals and strong segmentation. It’s an excellent foundation for performance reviews, pricing decisions, and sales strategy—especially under discount-heavy conditions.
+![](Sales_1.PNG)
 
 
 
