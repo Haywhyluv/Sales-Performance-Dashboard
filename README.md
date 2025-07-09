@@ -29,9 +29,16 @@ This dashboard showcases a solid range of Power BI and data analytics skills, in
 -  Most profitable
 -  The manufacturing cost vs. sales price comparison is crucial for understanding per-product margin health, especially under high discounts.
 
+##**Visualization
+###**Page:
 
 
 
+
+![](Sales_Intro.jpg)
+
+##**Conclusion
+The Analysis effectively breaks down complex sales and cost data into actionable insights through clean visuals and strong segmentation. It’s an excellent foundation for performance reviews, pricing decisions, and sales strategy—especially under discount-heavy conditions.
 
 
 
