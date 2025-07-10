@@ -35,7 +35,7 @@ This dashboard showcases a solid range of Power BI and data analytics skills, in
 ![](Sales_1.PNG)
 ##**Conclusion
 The Analysis effectively breaks down complex sales and cost data into actionable insights through clean visuals and strong segmentation. It’s an excellent foundation for performance reviews, pricing decisions, and sales strategy—especially under discount-heavy conditions.
-![](Sales_1.PNG)
+![](Sales_5.PNG)
 
 
 
